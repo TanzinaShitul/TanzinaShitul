@@ -35,7 +35,7 @@ width='35' height='35'></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tanzinashitul)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzinashitul)](https://github.com/Tanzinashitul/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzinashitul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Tanzinashitul/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanzinashitul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
@@ -45,7 +45,7 @@ Graph](https://activity-graph.herokuapp.com/graph?username=Tanzinashitul&show_ic
 ![GitHub metrics](https://metrics.lecoq.io/Tanzinashitul)
 
 ![GitHub streak
-stats](https://github-readme-streak-stats.herokuapp.com/?user=Tanzinashitul)
+stats](https://github-readme-streak-stats.herokuapp.com/?user=Tanzinashitul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
 ![Profile views](https://gpvc.arturio.dev/Tanzinashitul)
 <a href="https://github.com/Tanzinashitul?tab=followers"><img
