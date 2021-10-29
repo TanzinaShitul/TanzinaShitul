@@ -1,7 +1,8 @@
 <a href="#"><img width="100%" height="auto"
-src=""https://img.deusm.com/informationweek/May21/programminglanguages-MichaelTraitov-adobe-cp.jpg height="100px"/><a>
+src="https://img.deusm.com/informationweek/May21/programminglanguages-MichaelTraitov-adobe-cp.jpg"
+height="100px"/></a>
 
-### Hi there 👋, I'm Tanzina
+### Hi 👋, I'm Tanzina
 #### I'm a Computer Engineering Student 💻
 Beginner programmer 🌱
 
