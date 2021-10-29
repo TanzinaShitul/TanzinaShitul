@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto"
-src="https://images.app.goo.gl/Y8kArfVzZpWkua4K8.gif">
+src="https://images.app.goo.gl/qp9BRijU5vt1sWoM6.img">
 
 ### Hi there 👋, I'm Tanzina
 #### I'm a Computer Engineering Student 💻
