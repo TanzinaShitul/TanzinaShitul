@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto"
-src="https://images.app.goo.gl/Y8kArfVzZpWkua4K8"
+src="https://images.app.goo.gl/Y8kArfVzZpWkua4K8.jpg"
 height="100px"/></a>
 
 ### Hi there 👋, I'm Tanzina
