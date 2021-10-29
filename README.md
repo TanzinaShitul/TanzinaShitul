@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto"
-src="https://img.deusm.com/informationweek/May21/programminglanguages-MichaelTraitov-adobe-cp.jpg"
+src="https://images.app.goo.gl/Y8kArfVzZpWkua4K8"
 height="100px"/></a>
 
 ### Hi there 👋, I'm Tanzina
