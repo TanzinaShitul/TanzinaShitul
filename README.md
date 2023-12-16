@@ -6,9 +6,9 @@ height="100px"/></a>
 #### I'm a Computer Engineering Student 💻
 Beginner programmer 🌱
 
-Skills: C/ CPP / HTML / JAVA
+Skills: C/ CPP / JAVA / HTML / CSS / Bootstrap / PHP / Laravel 
 
-- 🌱 I’m currently learning  I’m currently learning Java
+- 🌱 I’m currently learning  I’m currently learning PHP & Laravel
 - 👯 I’m looking to collaborate on Github
 - 👨‍💻 All of my projects are available at **[My
 Portfolio](https://github.com/Tanzinashitul?tab=repositories)**
